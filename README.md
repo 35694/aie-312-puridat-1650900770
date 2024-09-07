@@ -1,1 +1,4 @@
-# aie-312-puridat-1650900770
+# phu
+**Puridat janpanorruk**
+Student ID.: 1650900770
+Email: puridat.janp
